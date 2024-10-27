@@ -13,6 +13,8 @@ Unauthorized access to computer systems and networks is illegal and can result i
 <h2> Languages and Utilities Used</h2>
 -<b>PowerShell</b>
 
+-<b>VMware Workstation</b>
+
 <h2>Environments Used </h2>
 
 - <b>Windows 16</b>
